@@ -1,4 +1,4 @@
-# StoreAPI
+# PostStack
 
 A FastAPI-based RESTful API for managing posts and comments, with JWT authentication, PostgreSQL integration, and robust testing.
 
